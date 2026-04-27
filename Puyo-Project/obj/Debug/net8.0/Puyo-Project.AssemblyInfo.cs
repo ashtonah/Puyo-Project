@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puyo-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06bd8ce57c56e0a069f07a7c51f54f1b728666b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58429d9145295e0e1d7ab9c46036d94f818095f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puyo-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puyo-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

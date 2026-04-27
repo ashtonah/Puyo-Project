@@ -32,3 +32,4 @@ C:\Users\tubev\ProgrammingProjects\Puyo-Project\Puyo-Project\obj\Debug\net8.0\re
 C:\Users\tubev\ProgrammingProjects\Puyo-Project\Puyo-Project\obj\Debug\net8.0\Puyo-Project.pdb
 C:\Users\tubev\ProgrammingProjects\Puyo-Project\Puyo-Project\obj\Debug\net8.0\Puyo-Project.genruntimeconfig.cache
 C:\Users\tubev\ProgrammingProjects\Puyo-Project\Puyo-Project\obj\Debug\net8.0\ref\Puyo-Project.dll
+C:\Users\tubev\ProgrammingProjects\Puyo-Project\Puyo-Project\bin\Debug\net8.0\Content\8bit_puyos.xnb
